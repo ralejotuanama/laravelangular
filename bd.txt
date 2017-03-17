@@ -1,0 +1,1 @@
+este txt me ayuda para visualizar la base de datos de laravel 5.3
